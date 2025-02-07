@@ -9,7 +9,7 @@ Sibani Sahoo   22051545  <br>
 Yash Tripathi  22053736  <br>
 
 <br>
-### Objectives
+## Objectives
 Combine multiple real-world imbalanced classification tasks. Develop robust pipelines to
 handle skewed data, create explainable and reproducible models, and compare performance
 across different algorithms and data-balancing strategies.
