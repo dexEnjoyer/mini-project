@@ -2,11 +2,11 @@
 This is a mini project done under Jyoti Prakash Mishra sir 
 <br>
 ## Team Members
-Punit Panda    22051535  
-Aditya Mohanty 22053657
-Smaranika Naik 22053638
-Sibani Sahoo   22051545  
-Yash Tripathi  22053736
+Punit Panda    22051535  <br>
+Aditya Mohanty 22053657  <br>
+Smaranika Naik 22053638  <br>
+Sibani Sahoo   22051545  <br>
+Yash Tripathi  22053736  <br>
 
 <br>
 ### Objectives
