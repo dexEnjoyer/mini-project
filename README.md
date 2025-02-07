@@ -1,7 +1,13 @@
-# mini project
+# Mini Project
 This is a mini project done under Jyoti Prakash Mishra sir 
 <br>
-authors - punit, aditya , yash, sibani, smaranika
+## Team Members
+Punit Panda    22051535  
+Aditya Mohanty 22053657
+Smaranika Naik 22053638
+Sibani Sahoo   22051545  
+Yash Tripathi  22053736
+
 <br>
 ### Objectives
 Combine multiple real-world imbalanced classification tasks. Develop robust pipelines to
