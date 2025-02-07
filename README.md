@@ -16,3 +16,19 @@ Forest, XGBoost).
 4. **Explainable AI**: Generate SHAP or LIME plots to interpret model outputs and
 feature contributions.
 5. **Evaluation & Visualization**:Use ROC and Precision-Recall curves, confusion matrices, and tabular comparisons to measure performance.
+### Datasets
+1. **Telco Customer Churn**
+   - [Dataset Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+   - **Goal**: Predict which customers are likely to stop using the service
+
+2. **Credit Card Fraud Detection**
+   - [Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+   - **Goal**: Identify fraudulent credit card transactions (highly imbalanced).
+
+3. **Employee Attrition (IBM HR Analytics)**
+   - [Dataset Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+   - **Goal**: Predict which employees are most likely to leave the company.
+
+4. **Loan Approval Prediction**
+   - [Dataset Link](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
+   - **Goal**:  Forecast whether a loan application will be approved.
