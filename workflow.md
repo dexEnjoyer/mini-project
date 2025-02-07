@@ -1,7 +1,6 @@
 #mini project workflow details
 <br>
-Workflow for Fraud Detection using Credit Card Dataset
-Based on your provided dataset (creditcard.csv), here is the step-by-step workflow that will be followed in your machine learning pipeline.
+Workflow based on your provided dataset , 
 
 🔹 Step 1: Load & Explore the Data
 📌 Goal: Understand the structure of the dataset.
