@@ -1,7 +1,7 @@
 # Mini Project
 This is a mini project done under Jyoti Prakash Mishra sir 
 <br>
-## Team Members
+### Team Members
 Punit Panda    22051535  <br>
 Aditya Mohanty 22053657  <br>
 Smaranika Naik 22053638  <br>
@@ -9,7 +9,7 @@ Sibani Sahoo   22051545  <br>
 Yash Tripathi  22053736  <br>
 
 <br>
-## Objectives
+### Objectives
 Combine multiple real-world imbalanced classification tasks. Develop robust pipelines to
 handle skewed data, create explainable and reproducible models, and compare performance
 across different algorithms and data-balancing strategies.
