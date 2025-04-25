@@ -1,5 +1,5 @@
 # Mini Project
-This mini project was conducted under the guidance of Jyoti Prakash Mishra sir.
+This mini project was conducted under the guidance of Jyoti Prakash Mishra sir at kiit university during 6th semester from Jan 2025 to Mar 2025
 
 ## Team Members
 - **Punit Panda** (22051535)  
